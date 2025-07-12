@@ -1,8 +1,9 @@
 # MiviaLabs 👋
 
-[https://mivia.net](https://mivia.net) - [https://api.mivia.net](https://api.mivia.net) - [https://docs.mivia.net](https://docs.mivia.net)
+[https://mivialabs.com](https://mivialabs.com)
 
-MiviaLabs is providing solutions to help you grow your e-commerce business.
+Enterprise-grade development services for global clients. We deliver cutting-edge artificial intelligence solutions that transform businesses and drive innovation across industries.
+
 <!--
 
 **Here are some ideas to get you started:**
